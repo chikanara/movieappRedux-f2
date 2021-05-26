@@ -1,0 +1,9 @@
+.menu{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #000;
+  color: aliceblue;
+  height: 80px;
+  list-style: none;
+}
